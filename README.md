@@ -1,25 +1,18 @@
-Python Data Cleaning & Analysis Project
+#🐍 Python Data Cleaning & Analysis Project
+📌 Project Overview
 
-This repository contains a collection of Python scripts and notebooks designed for data preprocessing, transformation, and exploratory analysis. It demonstrates step-by-step approaches to handling raw datasets and preparing them for reporting, visualization, or advanced analytics.
+This project demonstrates the process of data cleaning and exploratory data analysis (EDA) using Python. The dataset contained missing values, duplicates, and inconsistencies that were systematically cleaned before conducting meaningful analysis. The goal was to transform raw data into a structured format and extract insights through Python libraries.
 
-🚀 Features
+🔑 Objectives
 
-Data cleaning (remove special characters, handle missing values, standardize formats).
+Import and explore the raw dataset with Python.
 
-String manipulation for fields like phone numbers and addresses.
+Perform data cleaning (handle nulls, duplicates, and outliers).
 
-Splitting and restructuring columns into usable components.
+Conduct exploratory data analysis (EDA) to uncover key patterns and trends.
 
-Example Jupyter notebooks for testing and demonstrations.
+Prepare the dataset for further modeling or visualization.
 
-Modular functions that can be reused in other projects.
 
-🛠️ Tech Stack
 
-Python 3.x
 
-Pandas
-
-NumPy
-
-Jupyter Notebook
