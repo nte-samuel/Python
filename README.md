@@ -38,5 +38,49 @@ Visualizations revealed hidden patterns and supported better decision-making.
 
 The Python Data Cleaning & Analysis Project produced a well-structured dataset and meaningful insights. It highlights the importance of preprocessing in data science workflows and sets the foundation for predictive modeling and advanced analytics.
 
+#💰 Automating CoinMarketCap Data with Python & Power BI Dashboard
+## 📌 Project Overview
 
+This project focuses on automating cryptocurrency data extraction from CoinMarketCap using Python, cleaning and storing the data, and then building a Power BI dashboard for interactive analysis. The goal was to automate the data pipeline so that crypto market insights (prices, market cap, trading volume, etc.) can be updated seamlessly and visualized in real time.
 
+## Dashboard
+<img width="861" height="479" alt="coin market report" src="https://github.com/user-attachments/assets/3309c7f3-93c8-4860-b468-851164978f32" />
+
+## CODES
+https://github.com/nte-samuel/Python/blob/main/automating%20crypto%20websites.ipynb
+ ## 🔑 Objectives
+
+Automate data extraction from CoinMarketCap API using Python.
+
+Clean, transform, and prepare the dataset for analysis.
+
+Store and update the data automatically at regular intervals.
+
+Build a Power BI dashboard to visualize cryptocurrency market performance.
+## 🛠️ Tools & Techniques Used
+
+Python:
+
+requests → API calls to fetch live data.
+
+pandas → cleaning and structuring the dataset.
+
+schedule / time → for automation of data refresh.
+
+Power BI:
+
+Data modeling and transformation.
+
+DAX measures for KPIs (e.g., Market Cap %, Price Change %, Trading Volume).
+
+Interactive visuals and dashboards.
+
+## 📊 Key Insights
+
+Top cryptocurrencies (by market cap) consistently drive the majority of market value.
+
+High volatility was observed in daily and weekly price changes.
+
+Trading volumes varied significantly across coins, reflecting investor sentiment and activity.
+
+Market dominance analysis showed how Bitcoin and Ethereum compare against altcoins.
