@@ -38,7 +38,7 @@ Visualizations revealed hidden patterns and supported better decision-making.
 
 The Python Data Cleaning & Analysis Project produced a well-structured dataset and meaningful insights. It highlights the importance of preprocessing in data science workflows and sets the foundation for predictive modeling and advanced analytics.
 
-#💰 Automating CoinMarketCap Data with Python & Power BI Dashboard
+# 💰 Automating CoinMarketCap Data with Python & Power BI Dashboard
 ## 📌 Project Overview
 
 This project focuses on automating cryptocurrency data extraction from CoinMarketCap using Python, cleaning and storing the data, and then building a Power BI dashboard for interactive analysis. The goal was to automate the data pipeline so that crypto market insights (prices, market cap, trading volume, etc.) can be updated seamlessly and visualized in real time.
@@ -85,7 +85,7 @@ Trading volumes varied significantly across coins, reflecting investor sentiment
 
 Market dominance analysis showed how Bitcoin and Ethereum compare against altcoins.
 
-#🍎 Apple Sales Data Visualization (Python)
+#  Apple Sales Data Visualization (Python)
 ## 📌 Project Overview
 
 This project focuses on analyzing and visualizing Apple sales data using Python. The dataset was cleaned, explored, and transformed into compelling visualizations to highlight trends in revenue, product performance, and customer behavior. The aim was to communicate insights effectively through charts and plots.
