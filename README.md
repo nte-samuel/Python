@@ -84,3 +84,41 @@ High volatility was observed in daily and weekly price changes.
 Trading volumes varied significantly across coins, reflecting investor sentiment and activity.
 
 Market dominance analysis showed how Bitcoin and Ethereum compare against altcoins.
+
+#🍎 Apple Sales Data Visualization (Python)
+## 📌 Project Overview
+
+This project focuses on analyzing and visualizing Apple sales data using Python. The dataset was cleaned, explored, and transformed into compelling visualizations to highlight trends in revenue, product performance, and customer behavior. The aim was to communicate insights effectively through charts and plots.
+
+## CODES
+https://github.com/nte-samuel/Python/blob/main/Data%20visualization%20on%20apple%20sales.ipynb
+
+## 🔑 Objectives
+
+Import, clean, and prepare the Apple sales dataset.
+
+Perform exploratory data analysis (EDA) to uncover sales patterns.
+
+Visualize trends in revenue, product categories, and regions.
+
+Build clear and professional Python visualizations for storytelling.
+
+## 🛠️ Tools & Techniques Used
+
+Python Libraries:
+
+pandas → data cleaning, manipulation, and aggregation.
+
+matplotlib & seaborn → building visualizations.
+
+numpy → numerical operations.
+
+Visualization Techniques:
+
+Bar charts → product revenue comparisons.
+
+Line charts → sales trends over time.
+
+Pie charts → product/region contribution to total sales.
+
+Heatmaps → correlation between features.
