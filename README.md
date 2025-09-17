@@ -1,3 +1,12 @@
+# Table of Content
+-  [Python Data Cleaning](https://github.com/nte-samuel/Python/blob/main/README.md#-python-data-cleaning--analysis-project)
+
+-  [Automating CoinMarketCap Data with Python & Power BI Dashboard](https://github.com/nte-samuel/Python/blob/main/README.md#-automating-coinmarketcap-data-with-python--power-bi-dashboard)
+
+-  [Apple Sales Data Visualization Python](https://github.com/nte-samuel/Python/blob/main/README.md#apple-sales-data-visualization-python)
+
+-  [Exploratory Data Analysis EDA with Python](https://github.com/nte-samuel/Python/blob/main/README.md#-exploratory-data-analysis-eda-with-python)
+
 # 🐍 Python Data Cleaning & Analysis Project
 ## 📌 Project Overview
 
