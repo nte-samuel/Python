@@ -122,3 +122,21 @@ Line charts → sales trends over time.
 Pie charts → product/region contribution to total sales.
 
 Heatmaps → correlation between features.
+
+# 📊 Exploratory Data Analysis (EDA) with Python
+## 📌 Project Overview
+
+This project demonstrates the process of performing Exploratory Data Analysis (EDA) on a dataset using Python. The goal was to clean, explore, and visualize the data to uncover hidden patterns, relationships, and insights that could guide decision-making and future modeling.
+
+# CODES
+https://github.com/nte-samuel/Python/blob/main/Exploratory%20Data%20Analsis.ipynb
+## 🔑 Objectives
+
+Import and explore the dataset with Python.
+
+Perform data cleaning (handle nulls, duplicates, and outliers).
+
+Conduct descriptive analysis using summary statistics.
+
+Build visualizations to identify trends, distributions, and correlations.
+
